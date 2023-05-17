@@ -9,7 +9,7 @@
     align-items: center;
 }
 .loginForm{
-    height: 322px;
+    height: 300px;
     width: 48vh;
     border-radius: 15px;
     background-color: white;
@@ -45,7 +45,7 @@ input{
 .buttonInnerDiv{
     width: 122px;
     height: 36px;
-    background-color: lightblue;
+    background-color: blue;
     cursor: pointer;
     color:white;
     font-size: 16px;
